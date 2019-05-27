@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="37px" viewBox="0 0 36 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>next-green</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="next-green" transform="translate(0.000000, 1.000000)">
+            <g id="Arrow_3-3" transform="translate(9.480000, 11.400000)">
+                <g id="Arrow_3">
+                    <rect id="Rectangle" x="0" y="0" width="17.3736" height="12.065"></rect>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="0 4.9818 13.1062 4.9818 8.8844 0 11.3392 0 17.3736 6.0344 11.3392 12.065 8.8844 12.065 13.1062 7.0832 0 7.0832"></polygon>
+                </g>
+            </g>
+            <path d="M35,17.67 C34.9925367,25.8792318 29.1847672,32.9389557 21.1309418,34.528748 C13.0771164,36.1185402 5.02238015,31.7952182 1.89608649,24.2045772 C-1.23020717,16.6139362 1.44345092,7.87200048 8.28083021,3.32867709 C15.1182095,-1.2146463 24.2132706,-0.292826243 30,5.53" id="Path" stroke="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

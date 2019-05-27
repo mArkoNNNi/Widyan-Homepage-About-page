@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>next</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="next" transform="translate(0.000000, -1.000000)">
+            <g id="Arrow_28-3" transform="translate(14.640000, 17.910000)"></g>
+            <path d="M50.6000009,26.7009689 L51.5999991,26.6990311 C51.6238089,38.9863975 42.9627473,49.5786881 30.9154432,51.9957945 C18.8681391,54.412901 6.79149767,47.9813119 2.07371728,36.6357186 C-2.64406311,25.2901252 1.31159726,12.1919056 11.5207206,5.35423496 C21.729844,-1.48343567 35.3477227,-0.155283548 44.0432664,8.52615984 L43.3367336,9.23384016 C34.9788809,0.889540205 21.8898519,-0.387033192 12.0771993,6.18509683 C2.26454678,12.7572269 -1.53749571,25.3467778 2.99706991,36.2517655 C7.53163553,47.1567533 19.1392812,53.338572 30.7187288,51.0153337 C42.2981765,48.6920955 50.6228861,38.511156 50.6000009,26.7009689 Z" id="Path" fill="#A7A7A7" fill-rule="nonzero"></path>
+            <g id="Arrow_2-3" transform="translate(13.680000, 17.940000)">
+                <g id="Arrow_2">
+                    <rect id="Rectangle" x="0" y="0" width="25.146" height="17.4625"></rect>
+                    <polygon id="Path" fill="#061C42" fill-rule="nonzero" points="0 7.2105 18.9695 7.2105 12.859 0 16.412 0 25.146 8.734 16.412 17.4625 12.859 17.4625 18.9695 10.252 0 10.252"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>playbtn</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="playbtn" transform="translate(0.000000, -1.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M42.330002,23.082005 L44.329998,23.077995 C44.3511718,33.638239 36.9079472,42.7420925 26.5540936,44.8198121 C16.2002401,46.8975317 5.82094737,41.3701431 1.76627339,31.6193062 C-2.28840058,21.8684692 1.11141371,10.6113379 9.88570772,4.73503243 C18.6600017,-1.1412731 30.3637435,0.000729855 37.8365763,7.46236315 L36.4234237,8.87763685 C29.6259485,2.09034909 18.9799331,1.05155472 10.9986164,6.3967888 C3.01729973,11.7420229 -0.07525616,21.9817903 3.61297643,30.8513948 C7.30120902,39.7209993 16.7424726,44.7488498 26.160596,42.8589042 C35.5787194,40.9689586 42.3492623,32.6878664 42.330002,23.082005 Z" id="Path"></path>
+            <g id="play_video" transform="translate(17.000000, 18.000000)">
+                <polygon id="Path" points="1.16 12.67 0.86 0.69 13 6.37"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
